@@ -14,16 +14,19 @@ Here are some of our development works.
 - [**Modis**](https://modis.bisait.studio/) : Latest and trendy style
 - [**OlaBank**](https://olabank.bisait.studio/) : Take control your finances with just one simple app
 
-### Web Application
-- [**Urbanice**](https://urbanice.bisait.studio/) : Embark on a journey to find your ideal home with the unwavering support of our trusted real estate services.
-- [**Penerbitan Himawari**](https://arzahimawarishuppan.com/) : Book publishing
+### Application
+- [**Urbanice**](https://urbanice.bisait.studio/) (Laravel + Inertia + React)
+- [**Penerbitan Himawari**](https://arzahimawarishuppan.com/) (Laravel + Inertia + Vue)
+- [**SIPZIS**](https://sipzis-ws.netlify.app/) (Laravel + NextJs)
+- **Aegis** (MedusaJs + NextJs): Under Development
+- **MedhangGo** (Adonis + React Native): Under Development
 
 Check out our [full portfolio](https://bisait.studio)!
 
 ## 🛠️ Technologies & Tools
 We use cutting-edge tools and technologies to deliver the best results:
-- **Design:** Figma, Adobe Creative Suite
-- **Frontend Development:** Vue.js, React, Tailwind
+- **Design:** Figma, Adobe Creative Suite, Adobe Photoshop, Adobe Illustrator
+- **Frontend Development:** Vue.js, React, React Native, Tailwind
 - **Backend Development:** Node.js, Laravel, Golang
 - **CI/CD:** Github Actions, Bitbucket Pipelines, Docker, Kubernetes
 - **Other:** Wordpress, Shopify, Framer
