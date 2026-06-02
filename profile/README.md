@@ -1,4 +1,4 @@
-![Banner]([https://bisait.studio/images/logo-full-light.png](https://framerusercontent.com/images/8XbJUmuNmnihA1kPnN72foAbsbU.png?width=1352&height=170))
+![Banner](https://framerusercontent.com/images/8XbJUmuNmnihA1kPnN72foAbsbU.png?width=1352&height=170)
 
 
 ## 🚀 About Us
