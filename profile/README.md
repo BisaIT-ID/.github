@@ -21,7 +21,7 @@ Here are some of our development works.
 - **Aegis** (MedusaJs + NextJs): Under Development
 - **MedhangGo** (Adonis + React Native): Under Development
 
-Check out our [full portfolio](https://bisait.studio)!
+Check out our [full portfolio](https://sakma.studio)!
 
 ## 🛠️ Technologies & Tools
 We use cutting-edge tools and technologies to deliver the best results:
@@ -33,8 +33,8 @@ We use cutting-edge tools and technologies to deliver the best results:
 
 ## 🤝 Work With Us
 Looking for collaboration? Let's create something amazing together!
-📩 Contact us at **[hello@bisait.studio](mailto:hello@bisait.studio)** or visit **[bisait.studio](https://bisait.studio)**
+📩 Contact us at **[hello@bisait.studio](mailto:sakmadevelopment@gmail.com)** or visit **[bisait.studio](https://sakma.studio)**
 
 ---
-_© 2024 BisaIT Studio - All Rights Reserved._
+_© 2026 Sakma Development - All Rights Reserved._
 
