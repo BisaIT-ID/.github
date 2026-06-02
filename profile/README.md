@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Us
-Welcome to **BisaIT Studio**! We are an agency specializing in **digital product design** and **development**. Enhance your brand with our expertise.
+Welcome to **Sakma Development**! We are an agency specializing in **digital product design** and **development**. Enhance your brand with our expertise.
 
 ## 🌟 Featured Projects
 Here are some of our development works.
