@@ -10,12 +10,12 @@ Here are some of our development works.
 ### Landing Page
 - [**Stratave**](https://stratave.be/) : Your Ultimate Vision Our Innovative Strategy
 - [**FBrussels**](https://fbrussels.com/) : Your Ultimate Vision Our Innovative Strategy
-- [**Podvibes**](https://podvibes.bisait.studio/) : Florence Behaeghel - Your Relocation Expert in Brussels
-- [**Modis**](https://modis.bisait.studio/) : Latest and trendy style
-- [**OlaBank**](https://olabank.bisait.studio/) : Take control your finances with just one simple app
+- [**Podvibes**](https://podvibes.sakma.studio/) : Florence Behaeghel - Your Relocation Expert in Brussels
+- [**Modis**](https://modis.sakma.studio/) : Latest and trendy style
+- [**OlaBank**](https://olabank.sakma.studio/) : Take control your finances with just one simple app
 
 ### Application
-- [**Urbanice**](https://urbanice.bisait.studio/) (Laravel + Inertia + React)
+- [**Urbanice**](https://urbanice.sakma.studio/) (Laravel + Inertia + React)
 - [**Penerbitan Himawari**](https://arzahimawarishuppan.com/) (Laravel + Inertia + Vue)
 - [**SIPZIS**](https://sipzis-ws.netlify.app/) (Laravel + NextJs)
 - **Aegis** (MedusaJs + NextJs): Under Development
@@ -33,7 +33,7 @@ We use cutting-edge tools and technologies to deliver the best results:
 
 ## 🤝 Work With Us
 Looking for collaboration? Let's create something amazing together!
-📩 Contact us at **[hello@bisait.studio](mailto:sakmadevelopment@gmail.com)** or visit **[bisait.studio](https://sakma.studio)**
+📩 Contact us at **[sakmadevelopment@gmail.com](mailto:sakmadevelopment@gmail.com)** or visit **[sakma.studio](https://sakma.studio)**
 
 ---
 _© 2026 Sakma Development - All Rights Reserved._
